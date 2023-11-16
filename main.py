@@ -1,0 +1,3 @@
+import defs
+
+defs.welcome()
